@@ -1,0 +1,10 @@
+python
+pyramid
+pycharm
+pytorch
+pylint
+piano
+pizza
+pineapple
+picture
+pilot
